@@ -1,0 +1,5 @@
+machine:
+  timezone:
+    Singapore
+  ruby:
+    version: 2.3.1
