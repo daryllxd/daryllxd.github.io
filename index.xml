@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Whoa welcome to my awesome site.</title>
+    <title>Learn. Create. Ship.</title>
     <link>http://daryll.codes/</link>
-    <description>Recent content on Whoa welcome to my awesome site.</description>
+    <description>Recent content on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 23:04:21 +0800</lastBuildDate>
     
 	<atom:link href="http://daryll.codes/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://daryll.codes/posts/my-first-post/</link>
-      <pubDate>Tue, 31 Oct 2017 23:04:21 +0800</pubDate>
-      
-      <guid>http://daryll.codes/posts/my-first-post/</guid>
-      <description>Okay?</description>
-    </item>
     
   </channel>
 </rss>
