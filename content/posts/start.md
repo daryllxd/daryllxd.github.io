@@ -4,9 +4,6 @@ date: 2017-11-05T15:38:58+08:00
 draft: true
 ---
 
-![Example image](/img/20171106-daryll.jpg)
-*Credits to Aaron for the photo.*
-
 I've decided to start blogging again. And this time I want to stick to this for good (like for the rest of my life). A few years back I did the Project 365 thing where you took a picture of the day for 365 days. I really liked that year since I actively tried to do something per day so surely writing about things should have that kind of effect 😱
 
 A few rules for now:
@@ -22,3 +19,6 @@ In this blog, expect to see:
 - My projects/life's work. I'm going to turn 30 soon and while I like what I have done so far re: work projects and completing my general bucket list, but I still don't have that much in terms of a physical body of work to show to my kids some day. I'm thinking apps, photos, memoirs/essays, physical artifacts, whatever. I like listening to my parents' stories about their adventures when they were young, but they don't really have many photos of their travels. I think it would be awesome for my descendants to see my crazy-ass adventures. I might even print this blog in the future.
 
 It's funny because it took a long time for me to write a draft of this post, then I just scrapped everything and I'm like fuck it, whatever. Learn, create, ship. :)
+
+![Example image](/img/20171106-daryll.jpg)
+*Credits to [Aaron](http://www.nelo.ph) for the photo.*
