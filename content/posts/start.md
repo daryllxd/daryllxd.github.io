@@ -1,7 +1,6 @@
 ---
 title: "Start"
 date: 2017-11-05T15:38:58+08:00
-draft: true
 ---
 
 I've decided to start blogging again. And this time I want to stick to this for good (like for the rest of my life). A few years back I did the Project 365 thing where you took a picture of the day for 365 days. I really liked that year since I actively tried to do something per day so surely writing about things should have that kind of effect 😱
