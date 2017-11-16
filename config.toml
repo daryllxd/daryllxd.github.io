@@ -1,7 +1,6 @@
 baseURL = "http://daryll.codes/"
 languageCode = "en-us"
 title = "Learn. Create. Ship."
-description = "It's getting better all the time"
 theme = "gohugo-theme-ananke"
 
 [taxonomies]
@@ -10,7 +9,7 @@ theme = "gohugo-theme-ananke"
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "A blog about being the best person you can be."
   facebook = ""
   twitter = "https://twitter.com/daryllxd"
   instagram = "https://instagram.com/papsipatootie"
