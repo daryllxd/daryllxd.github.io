@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://daryll.codes/about/</loc>
+    <lastmod>2017-11-17T01:40:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://daryll.codes/posts/start/</loc>
     <lastmod>2017-11-05T15:38:58+08:00</lastmod>
   </url>
