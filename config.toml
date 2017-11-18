@@ -2,6 +2,7 @@ baseURL = "http://daryll.codes/"
 languageCode = "en-us"
 title = "Learn. Create. Ship."
 theme = "gohugo-theme-ananke"
+SectionPagesMenu = "main"
 
 [taxonomies]
   tag = 'tags'
