@@ -10,6 +10,7 @@ GoogleAnalytics= "UA-41420722-4"
   category = "categories"
 
 [params]
+  env = "production"
   favicon = ""
   description = "A blog about being the best person you can be."
   facebook = ""
