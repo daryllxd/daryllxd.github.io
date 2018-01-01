@@ -7,21 +7,27 @@ date: 2017-12-18T13:18:04+08:00
 
 Visa requirements are on the Korean embassy page.
 
-If your parents are retired (don't have an ITR), you can use your ITR as a substitute. My brother is in school so I used my ITR since I was sponsoring his trip.
+If your parents are retired (they don't have an ITR), you can use your ITR as a substitute. My brother is in school so I used my ITR since I was sponsoring his trip.
 
-I don't think you need to be physically present when applying for the Visa. We forgot a requirement (my brother's school certificate) the first time we got there so we re-applied a few days after. I didn't come with him but I got the Visa anyway.
+I don't think you need to be physically present when applying for the Visa. We forgot a requirement (my brother's school certificate) the first time we got there so we re-applied a few days after. I didn't come with him but I got my Visa approved anyway.
 
-You have to get there early. The embassy will open at 8:30am but just assume that there will be a line before then. We went there at around 6:00 am and we were fourth in line. If we came in at 8:00 we would probably be in fiftieth place. You can stay in the Shakey's from across the street, at around 6:30, they were open.
+You have to get there early. The embassy will open at 8:30 am but just assume that there will be a line before then. We went there at around 6:00 am and we were fourth in line. If we came in at 8:00 we would probably be in seventieth (!) place. You can stay in the Shakey's from across the street, at around 6:30, they were open. There is also a Coffee Bean but it was closed at that time.
 
 Also, I think they stop taking in applicants by about 10am, because they release completed applications in the afternoon.
 
-At 8:30, the guard will call out names on the logbook thing and you have to be there. By this time you have to accumulate all your requirements in a clipboard or a folder or something. There are two lines--one is the line to the requirements person Filipino, he will just -preliminarily check your requirements and give you a number to the windows where the Korean visa agents are. The second is the line to the Korean visa agent, where you wait for your number to be called. I suggest bringing a book to read, we still waited 30 minutes.
+At 8:30, the guard will call out names on the logbook and you have to be there. By this time you have to accumulate all your requirements in a clipboard or a folder or something. There are two lines--one is the line to the requirements person (Filipino), he will just preliminarily check your requirements and give you a number to the windows where the Korean visa agents are. The second line is to the Korean visa agent, where you wait for your number to be called. I suggest bringing a book to read, we still waited 30 minutes.
 
 There are three lines/windows inside the embassy. The window at the very left is for first time Visa applicants and the window at the very right is for people who have an OECD visa already. So you might get confused why the other lines are moving but yours isn't.
 
 On requirements: **You must have all of them and nothing more.** If you think things like other Visas, accommodation receipts, and flight tickets will help you, they won't. The Korean lady even told us "why so many, I don't need this." So don't bother bringing those things.
 
-On Visa releasing: 5 business days after they got the application. For us, this was about 1 week before our flight. I went there alone without my brother and got both our approved Visas, while doing a small dance in my head! Our first Visa! BTW, these things are just a page in the passport. Cool.
+They will give you a claim stub for your passports. Try not to lose them.
+
+On Visa releasing: 5 business days after they got the application. For us, this was about 1 week before our flight. I went there alone and I arrived at around 2:00pm. It was sort of the same process as applying, I just gave my claim stub and waited to get called. While waiting I heard someone singing (auditioning?) in the adjacent room. I guess you show your talents to the consul if you're applying to be an entertainer? Whatever hehe.
+
+When I got our approved Visas, I did a small dance in my head! We didn't waste money on a ticket that we can't use! BTW, I didn't know what a Visa looked like, apparently these things are just a page in the passport. Cool.
+
+By the way the traffic from the embassy was insane. I rode my bike and it still took me 40 minutes to get from BGC to Pasig.
 
 ## The Flight/Getting to your Hostel
 
@@ -46,7 +52,7 @@ Getting to your hostel: So we left the airport at around 12:30am, so the trains 
 ## Dealing with Cold Weather
 
 - Here's what I normally wore:
-  - Head: Russia hat/Ushanka.Vastly superior to a simple bonnet.
+  - Head: Russia hat/Ushanka. Vastly superior to a simple bonnet.
   - Head: Headphones. Surprisingly effective.
   - Head: Mask. Also surprisingly effective. You can't wear glasses with them though since your eyes will get fogged up. So bring your contact lens.
   - Body: Base layer, long sleeved Uniqlo Heattech (V-neck).
@@ -71,12 +77,12 @@ Getting to your hostel: So we left the airport at around 12:30am, so the trains 
 
 ### Cost Savings
 
-- For us at least (non-shoppers), going around Seoul was not that expensive. Most of the attractions are free or have cheap entrance fees:
-  - Palaces: 3K KRW each or 10K for the 4 of them. (Visit them on a Wednesday-Sunday so all of them are open.
-  - Bukchon Hanok/Korean village: Free, you can go in some of the houses.
+- For us at least (non-shoppers who just like walking around), going around Seoul was not that expensive. Most of the attractions are free or have cheap entrance fees:
+  - Palaces: 3K KRW each or 10K for the 4 of them. Visit them on a Wednesday-Sunday so all of them are open.
+  - Bukchon Hanok/Korean village: free, you can go in some of the houses.
   - War Museum: free.
   - National Museum of Korea: free.
-  - Hongae area: free.
+  - Hongdae area: free.
   - N Seoul Tower: free if you like hiking. From Myeongdong station it was about a one hour hike up. You can also take a cable car for 6K KRW ($6), and you can get to the observation decks.
   - Dongdamun/Nangdamun market/Gwangjang market: free. You can buy street foods which are honestly expensive.
   - Haneul Park: free.
@@ -86,3 +92,5 @@ Getting to your hostel: So we left the airport at around 12:30am, so the trains 
   - Street food: Rice cake is 1K, and is 2K.
   - Isaac's Toast in Myeongdong: 3.5K each.
   - Then once a day you can eat at the 8-12K KRW restaurants. We ate at: ...
+
+- Still a work in progress! Hehe.
