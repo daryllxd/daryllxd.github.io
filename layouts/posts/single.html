@@ -22,10 +22,10 @@
         {{ .Content }}
       </section>
       {{ partial "tags.html" . }}
+      {{ partial "disqus" . }}
     </article>
     <div class="ph3 mt2 mt6-ns">
       {{ partial "menu-contextual.html" . }}
-      {{ partial "disqus" . }}
     </div>
   </div>
 {{ end }}
