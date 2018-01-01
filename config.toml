@@ -4,6 +4,7 @@ title = "Learn. Create. Ship."
 theme = "gohugo-theme-ananke"
 SectionPagesMenu = "main"
 GoogleAnalytics= "UA-41420722-4"
+disqusShortname= "daryll-codes"
 
 [taxonomies]
   tag = "tags"
