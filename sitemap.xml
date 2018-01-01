@@ -28,6 +28,12 @@
   </url>
   
   <url>
+    <loc>http://daryll.codes/tags/hiking/</loc>
+    <lastmod>2017-12-31T18:53:56+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://daryll.codes/</loc>
     <lastmod>2017-12-31T18:53:56+08:00</lastmod>
     <priority>0</priority>
@@ -41,6 +47,13 @@
   
   <url>
     <loc>http://daryll.codes/tags/</loc>
+    <lastmod>2017-12-31T18:53:56+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daryll.codes/tags/travel/</loc>
+    <lastmod>2017-12-31T18:53:56+08:00</lastmod>
     <priority>0</priority>
   </url>
   
