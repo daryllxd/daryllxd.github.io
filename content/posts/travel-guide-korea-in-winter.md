@@ -1,5 +1,6 @@
 ---
 title: "Travel Guide: Korea in Winter"
+tags: ["travel"]
 date: 2017-12-18T13:18:04+08:00
 ---
 
