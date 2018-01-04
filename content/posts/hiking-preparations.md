@@ -1,6 +1,6 @@
 ---
 title: "Hiking Preparations 😱"
-tags: ["travel", "hiking"]
+tags: ["travel", "hiking", "checklist"]
 date: 2017-12-31T18:53:56+08:00
 ---
 
