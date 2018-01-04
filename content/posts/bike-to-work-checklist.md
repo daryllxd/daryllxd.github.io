@@ -2,7 +2,6 @@
 title: "Bike to Work Checklist"
 tags: ["biking", "checklist"]
 date: 2018-01-05T05:54:14+08:00
-draft: true
 ---
 
 ### Bike to Work Checklist:
