@@ -6,10 +6,19 @@
     <description>Recent content on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2018 05:54:14 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 22:48:14 +0800</lastBuildDate>
     
 	<atom:link href="http://daryll.codes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Recap, 20180209</title>
+      <link>http://daryll.codes/posts/weekly-recap-2018-02-09/</link>
+      <pubDate>Fri, 09 Feb 2018 22:48:14 +0800</pubDate>
+      
+      <guid>http://daryll.codes/posts/weekly-recap-2018-02-09/</guid>
+      <description>Read: Principles, by Ray Dalio. Read: 99 Bottles of OOP, A Practical Guide to Object-Oriented Design Reading: Incognito: The Secret Lives of the Brain, by David Eagleman. Reading: Programming Elixir. Writing: Summary/Learnings from Mindset, by Carol Dweck. Writing: Blog article on decluttering/my 100 things. Biked: 123km. Coding:  Forever project: Daryllxd, a bunch of tools I use to help keep track of my life. Added tagging to expenses. Added presentation to help me keep track of expenses better.</description>
+    </item>
     
     <item>
       <title>Bike to Work Checklist</title>
