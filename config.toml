@@ -1,4 +1,4 @@
-baseURL = "http://daryll.codes/"
+baseURL = "https://daryll.codes/"
 languageCode = "en-us"
 title = "Learn. Create. Ship."
 theme = "gohugo-theme-ananke"
