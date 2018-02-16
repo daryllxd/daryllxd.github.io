@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Habits on Learn. Create. Ship.</title>
+    <link>https://daryll.codes/categories/habits/</link>
+    <description>Recent content in Habits on Learn. Create. Ship.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2018 13:18:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://daryll.codes/categories/habits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good Habits: The 100 Things Challenge</title>
+      <link>https://daryll.codes/posts/good-habits-decluttering/</link>
+      <pubDate>Thu, 08 Feb 2018 13:18:04 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/good-habits-decluttering/</guid>
+      <description>Summary:
+ I have 103 things. Having few, high quality things has made my life easier because I don&amp;rsquo;t have to think that much. The point of the challenge is not having a limit, but limiting consumption. Impulse buys are the worst. Whenever you want to buy something, don&amp;rsquo;t think you&amp;rsquo;ll miss out if you don&amp;rsquo;t buy it. Just wait for a few days before actually buying the thing.  I first heard about the 100 Things Challenge when I was a college student.</description>
+    </item>
+    
+  </channel>
+</rss>

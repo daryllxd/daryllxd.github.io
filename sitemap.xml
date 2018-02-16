@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://daryll.codes/posts/good-habits-decluttering/</loc>
+    <lastmod>2018-02-08T13:18:04+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/posts/bike-to-work-checklist/</loc>
     <lastmod>2018-01-05T05:54:14+08:00</lastmod>
   </url>
@@ -46,6 +51,18 @@
   <url>
     <loc>https://daryll.codes/tags/checklist/</loc>
     <lastmod>2018-01-05T05:54:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/tags/habits/</loc>
+    <lastmod>2018-02-08T13:18:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/categories/habits/</loc>
+    <lastmod>2018-02-08T13:18:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
