@@ -6,10 +6,19 @@
     <description>Recent content on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 22:48:14 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 22:15:18 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Recap, 20180216</title>
+      <link>https://daryll.codes/posts/weekly-recap-2018-02-16/</link>
+      <pubDate>Fri, 16 Feb 2018 22:15:18 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/weekly-recap-2018-02-16/</guid>
+      <description>Read: The Art of Manliness articles on focusing. Reading: Incognito: The Secret Lives of the Brain, by David Eagleman. Reading: Smalltalk Best Practice Patterns. Wrote: Blog entry on decluttering. Writing: My speech for Rubyconf! :) Biked: 155km. Coding. Forever project: Daryllxd.  I added a started_at and ended_at to the table. This is huge. The goal of the eternal side project is to keep me productive, and I&amp;rsquo;ve noticed that I can get carried away doing frivolous things from time to time.</description>
+    </item>
     
     <item>
       <title>Weekly Recap, 20180209</title>
