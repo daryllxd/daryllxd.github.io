@@ -1,5 +1,6 @@
 ---
 title: "Weekly Recap, 20180209"
+tags: ["weekly-recap"]
 date: 2018-02-09T22:48:14+08:00
 ---
 
