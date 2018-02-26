@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://daryll.codes/posts/weekly-recap-2018-02-23/</loc>
+    <lastmod>2018-02-23T08:40:23+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/posts/weekly-recap-2018-02-16/</loc>
     <lastmod>2018-02-16T22:15:18+08:00</lastmod>
   </url>
@@ -79,13 +84,13 @@
   
   <url>
     <loc>https://daryll.codes/</loc>
-    <lastmod>2018-02-16T22:15:18+08:00</lastmod>
+    <lastmod>2018-02-23T08:40:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daryll.codes/posts/</loc>
-    <lastmod>2018-02-16T22:15:18+08:00</lastmod>
+    <lastmod>2018-02-23T08:40:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +108,7 @@
   
   <url>
     <loc>https://daryll.codes/tags/weekly-recap/</loc>
-    <lastmod>2018-02-16T22:15:18+08:00</lastmod>
+    <lastmod>2018-02-23T08:40:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   

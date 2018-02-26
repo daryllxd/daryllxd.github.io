@@ -6,10 +6,19 @@
     <description>Recent content on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Feb 2018 22:15:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 08:40:23 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Recap, 20180223</title>
+      <link>https://daryll.codes/posts/weekly-recap-2018-02-23/</link>
+      <pubDate>Fri, 23 Feb 2018 08:40:23 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/weekly-recap-2018-02-23/</guid>
+      <description>Read: Crushing It by Gary Vaynerchuk. Read: The Obstacle Is the Way by Ryan Holiday. Reading: Programming Elixir. Reading: Programming Phoenix by Chris McCord. Reading: Your Brain at Work by David Rock. Wrote: Just drafts of articles. I should have! Biked: 186km. Coding:  Habits One, Elixir project. I have authentication and authorization working now, as well as the basic CRUD functionality. Consulting: I worked with my homies re: consulting on an all-around inventory/payroll system.</description>
+    </item>
     
     <item>
       <title>Weekly Recap, 20180216</title>
