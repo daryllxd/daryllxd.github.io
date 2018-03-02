@@ -59,6 +59,10 @@
   </url>
   
   <url>
+    <loc>https://daryll.codes/books/</loc>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/categories/</loc>
     <priority>0</priority>
   </url>
@@ -70,13 +74,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/habits/</loc>
+    <loc>https://daryll.codes/categories/habits/</loc>
     <lastmod>2018-02-08T13:18:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/habits/</loc>
+    <loc>https://daryll.codes/tags/habits/</loc>
     <lastmod>2018-02-08T13:18:04+08:00</lastmod>
     <priority>0</priority>
   </url>
