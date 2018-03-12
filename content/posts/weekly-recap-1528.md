@@ -52,5 +52,3 @@ Elixir's Phoenix framework clearly separates business logic from both the databa
 ## This Week
 
 See you later guys, I NEED TO EAT!
-
-
