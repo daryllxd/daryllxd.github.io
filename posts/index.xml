@@ -6,26 +6,35 @@
     <description>Recent content in Posts on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 23:56:36 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Mar 2018 18:45:55 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Weekly Recap 20180302: Domain-Driven Design, Intermittent Fasting, and Sparkfest</title>
-      <link>https://daryll.codes/posts/weekly-recap-2018-03-02/</link>
+      <title>Weekly Recap, 1529/5000, where I get back to ReactJS and create vlog for my job application.</title>
+      <link>https://daryll.codes/posts/weekly-recap-1529/</link>
+      <pubDate>Sat, 10 Mar 2018 18:45:55 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/weekly-recap-1529/</guid>
+      <description>Read: Your Brain at Work by David Rock. Reading: Domain-Driven Design by Eric J. Evans. Reading: Die Empty by Todd Henry. Reading: Full Stack React. Watching: A Cloud Guru AWS Software Architect Online Course. Wrote: A blog post on how to focus as a software developer. Biked: 211km.   Coding:  Added Doorkeeper/JWT/controller layer to Daryllxd. Added another view to Daryllxd re: summarizing activity tags for the week.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Recap 1528/5000, Domain-Driven Design, Intermittent Fasting, and Sparkfest.</title>
+      <link>https://daryll.codes/posts/weekly-recap-1528/</link>
       <pubDate>Fri, 02 Mar 2018 23:56:36 +0800</pubDate>
       
-      <guid>https://daryll.codes/posts/weekly-recap-2018-03-02/</guid>
+      <guid>https://daryll.codes/posts/weekly-recap-1528/</guid>
       <description>Read: Objects on Rails by Avdi Grimm. Reading: Domain-Driven Design by Eric J. Evans. Reading: Your Brain at Work by David Rock. Wrote: A post on all the books I&amp;rsquo;ve read. Writing: A post on how to focus as a software developer. Biked: 200km. YES. Coding:  Finished reading Objects on Rails, a book I purchased several years ago, but didn&amp;rsquo;t understand at the time. I understood everything this time around.</description>
     </item>
     
     <item>
-      <title>Weekly Recap 20180223, where I learn a new programming language for the first time in four years.</title>
-      <link>https://daryll.codes/posts/weekly-recap-2018-02-23/</link>
+      <title>Weekly Recap 1527/5000, where I learn a new programming language for the first time in four years.</title>
+      <link>https://daryll.codes/posts/weekly-recap-1527/</link>
       <pubDate>Fri, 23 Feb 2018 08:40:23 +0800</pubDate>
       
-      <guid>https://daryll.codes/posts/weekly-recap-2018-02-23/</guid>
+      <guid>https://daryll.codes/posts/weekly-recap-1527/</guid>
       <description>Read: Crushing It by Gary Vaynerchuk. Read: The Obstacle Is the Way by Ryan Holiday. Reading: Programming Elixir by Jose Valim. Reading: Programming Phoenix by Chris McCord. Reading: Your Brain at Work by David Rock. Wrote: Just drafts of articles. I should have! Biked: 186km. Coding:  Habits One, Elixir project. I have authentication and authorization working now, as well as the basic CRUD functionality. Consulting: I worked with my homies re: consulting on an all-around inventory/payroll system.</description>
     </item>
     
@@ -36,24 +45,24 @@
       
       <guid>https://daryll.codes/posts/tools/</guid>
       <description>Like a craftsman has a set of their favorite tools, here are mine:
-Software  Text editor: Vim. I practically live in this. Shell: zsh. Version control: Git. Searcher: The Silver Searcher. Screen capturing: Kapture.io. OS X navigator: Alfred. File synchronization: Dropbox. Time tracker: Daryllxd. Todo list manager: Todoist but I&amp;rsquo;m starting to hate it. Social media blocker: Freedom.to. Youtube downloader: youtube-dl. Spotify playing: shpotify. Chrome Extensions:  Marinara Pomodoro timer.</description>
+Software  Text editor: Vim. I practically live in this. Fun fact: I was probably the only Rails programmer who coded in Netbeans on Windows. Shell: zsh. Version control: Git. Searcher: The Silver Searcher. Screen capturing: Kapture.io. OS X navigator: Alfred. File synchronization: Dropbox. Time tracker: Daryllxd. Todo list manager: Todoist but I&amp;rsquo;m starting to hate it.</description>
     </item>
     
     <item>
       <title>Weekly Recap, 20180216</title>
-      <link>https://daryll.codes/posts/weekly-recap-2018-02-16/</link>
+      <link>https://daryll.codes/posts/weekly-recap-1526/</link>
       <pubDate>Fri, 16 Feb 2018 22:15:18 +0800</pubDate>
       
-      <guid>https://daryll.codes/posts/weekly-recap-2018-02-16/</guid>
+      <guid>https://daryll.codes/posts/weekly-recap-1526/</guid>
       <description>Read: The Art of Manliness articles on focusing. Reading: Incognito: The Secret Lives of the Brain, by David Eagleman. Reading: Smalltalk Best Practice Patterns. Wrote: Blog entry on decluttering. Writing: My speech for Rubyconf! :) Biked: 155km. Coding. Forever project: Daryllxd.  I added a started_at and ended_at to the table. This is huge. The goal of the eternal side project is to keep me productive, and I&amp;rsquo;ve noticed that I can get carried away doing frivolous things from time to time.</description>
     </item>
     
     <item>
       <title>Weekly Recap, 20180209</title>
-      <link>https://daryll.codes/posts/weekly-recap-2018-02-09/</link>
+      <link>https://daryll.codes/posts/weekly-recap-1525/</link>
       <pubDate>Fri, 09 Feb 2018 22:48:14 +0800</pubDate>
       
-      <guid>https://daryll.codes/posts/weekly-recap-2018-02-09/</guid>
+      <guid>https://daryll.codes/posts/weekly-recap-1525/</guid>
       <description>Read: Principles, by Ray Dalio. Read: 99 Bottles of OOP, A Practical Guide to Object-Oriented Design Reading: Incognito: The Secret Lives of the Brain, by David Eagleman. Reading: Programming Elixir. Writing: Summary/Learnings from Mindset, by Carol Dweck. Writing: Blog article on decluttering/my 100 things. Biked: 123km. Coding:  Forever project: Daryllxd, a bunch of tools I use to help keep track of my life. Added tagging to expenses. Added presentation to help me keep track of expenses better.</description>
     </item>
     

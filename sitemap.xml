@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://daryll.codes/posts/weekly-recap-2018-03-02/</loc>
+    <loc>https://daryll.codes/posts/weekly-recap-1529/</loc>
+    <lastmod>2018-03-10T18:45:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/books/</loc>
     <lastmod>2018-03-02T23:56:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://daryll.codes/posts/weekly-recap-2018-02-23/</loc>
+    <loc>https://daryll.codes/posts/weekly-recap-1528/</loc>
+    <lastmod>2018-03-02T23:56:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/posts/weekly-recap-1527/</loc>
     <lastmod>2018-02-23T08:40:23+08:00</lastmod>
   </url>
   
@@ -18,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/posts/weekly-recap-2018-02-16/</loc>
+    <loc>https://daryll.codes/posts/weekly-recap-1526/</loc>
     <lastmod>2018-02-16T22:15:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://daryll.codes/posts/weekly-recap-2018-02-09/</loc>
+    <loc>https://daryll.codes/posts/weekly-recap-1525/</loc>
     <lastmod>2018-02-09T22:48:14+08:00</lastmod>
   </url>
   
@@ -64,10 +74,6 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/books/</loc>
-  </url>
-  
-  <url>
     <loc>https://daryll.codes/categories/</loc>
     <priority>0</priority>
   </url>
@@ -79,13 +85,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/habits/</loc>
+    <loc>https://daryll.codes/categories/habits/</loc>
     <lastmod>2018-02-08T13:18:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/habits/</loc>
+    <loc>https://daryll.codes/tags/habits/</loc>
     <lastmod>2018-02-08T13:18:04+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -98,13 +104,13 @@
   
   <url>
     <loc>https://daryll.codes/</loc>
-    <lastmod>2018-03-02T23:56:36+08:00</lastmod>
+    <lastmod>2018-03-10T18:45:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daryll.codes/posts/</loc>
-    <lastmod>2018-03-02T23:56:36+08:00</lastmod>
+    <lastmod>2018-03-10T18:45:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
