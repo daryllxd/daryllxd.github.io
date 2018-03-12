@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap 20180302: Domain-Driven Design, Intermittent Fasting, and Sparkfest"
+title: "Weekly Recap 1528/5000, Domain-Driven Design, Intermittent Fasting, and Sparkfest."
 tags: ["weekly-recap"]
 date: 2018-03-02T23:56:36+08:00
 ---

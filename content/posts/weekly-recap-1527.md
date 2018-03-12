@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap 20180223, where I learn a new programming language for the first time in four years."
+title: "Weekly Recap 1527/5000, where I learn a new programming language for the first time in four years."
 tags: ["weekly-recap"]
 date: 2018-02-23T08:40:23+08:00
 ---

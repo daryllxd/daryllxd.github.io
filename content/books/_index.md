@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: 2018-03-01T01:40:54+9:00
+date: 2018-03-02T23:56:36+08:00
 ---
 
 When I was a kid I loved reading books. Growing up, we didn't have much, but my mom bought me Roald Dahl books. I loved them all. While I was, I . Here's a list of all the books I've read since I started becoming a web developer:

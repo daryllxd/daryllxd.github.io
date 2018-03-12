@@ -7,7 +7,7 @@ Like a craftsman has a set of their favorite tools, here are mine:
 
 ### Software
 
-- Text editor: Vim. I practically live in this.
+- Text editor: Vim. I practically live in this. Fun fact: I was probably the only Rails programmer who coded in Netbeans on Windows.
 - Shell: zsh.
 - Version control: Git.
 - Searcher: The Silver Searcher.

@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap, 1529/5000."
+title: "Weekly Recap, 1529/5000, where I get back to ReactJS and create vlog for my job application."
 date: 2018-03-10T18:45:55+08:00
 ---
 
