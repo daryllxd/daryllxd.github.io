@@ -4,11 +4,11 @@ tags: ["weekly-recap"]
 date: 2018-02-23T08:40:23+08:00
 ---
 
-- Read: [Crushing It by Gary Vaynerchuk.](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676)
-- Read: [The Obstacle Is the Way by Ryan Holiday.](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
-- Reading: [Programming Elixir by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
-- Reading: [Programming Phoenix by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
-- Reading: [Your Brain at Work by David Rock.](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295)
+- Read: [Crushing It, by Gary Vaynerchuk.](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676)
+- Read: [The Obstacle Is the Way, by Ryan Holiday.](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
+- Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
+- Reading: [Programming Phoenix, by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
+- Reading: [Your Brain at Work, by David Rock.](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295)
 - Wrote: Just drafts of articles. I should have!
 - Biked: 186km.
 - Coding:
