@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Reading List"
 date: 2018-03-02T23:56:36+08:00
 ---
 
@@ -7,27 +7,30 @@ When I was a kid I loved reading books. Growing up, we didn't have much, but my 
 
 ## Programming/Design
 
-- Reading: Programing Phoenix, by Chris McCord.
-- Reading: Programming Elixir, by Dave Thomas.
+- Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
+- Reading: [Programming Phoenix, by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
+- Reading: [Full Stack React.](https://www.fullstackreact.com/)
+- Reading: [Domain-Driven Design, by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Objects on Rails by Avdi Grimm.](http://objectsonrails.com/)
+- [99 Bottles of OOP, A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
 - Service-Oriented Design with Ruby and Rails, by Paul Dix.
-- 99 Bottles of OOP, by Sandi Metz.
 - Practical Object-Oriented Design in Ruby, by Sandi Metz.
 - Rails Antipatterns, by Chad Pytel.
 - Clean Code, by Robert C. Martin.
 - The Pragmatic Programmer, by Andrew Hunt/David Thomas.
-- Objects on Rails, by Avdi Grimm.
 - SQL Antipatterns, by Bill Karwin.
 - The Complete Software Developer's Career Guide, by John Sonmez.
 - Smalltalk Best Practice Patterns, by Kent Beck.
 
 ## Personal Development
 
-- Reading: Your Brain at Work, by David Rock.
 - Reading: Incognito: The Secret Lives of the Brain, by David Eagleman.
-- Crushing It, by Gary Vaynerchuk.
+- [Die Empty: Unleash Your Best Work Everyday, by Todd Henry.](https://www.amazon.com/Die-Empty-Unleash-Your-Every/dp/1591845890)
+- [Your Brain at Work, by David Rock.](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295)
+- [Crushing It, by Gary Vaynerchuk.](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676)
+- [The Obstacle Is the Way, by Ryan Holiday.](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
+- [Principles, by Ray Dalio.](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 - Mindset, by Carol Dweck.
-- Principles, by Ray Dalio.
-- The Obstacle is the Way, by Ryan Holiday.
 - The 48 Laws of Power, by Robert Greene.
 - Mastery, by Robert Greene.
 - The War of Art, by Steven Pressfield.
