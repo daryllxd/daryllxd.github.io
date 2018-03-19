@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://daryll.codes/cv/</loc>
+    <lastmod>2018-03-13T01:40:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/posts/weekly-recap-1529/</loc>
     <lastmod>2018-03-10T18:45:55+08:00</lastmod>
   </url>
@@ -95,13 +100,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/habits/</loc>
+    <loc>https://daryll.codes/tags/habits/</loc>
     <lastmod>2018-03-03T23:56:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/habits/</loc>
+    <loc>https://daryll.codes/categories/habits/</loc>
     <lastmod>2018-03-03T23:56:36+08:00</lastmod>
     <priority>0</priority>
   </url>
