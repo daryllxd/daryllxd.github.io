@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap, 20180216"
+title: "Weekly Recap 1526/5000, reviewing my first few journal entries and laughing about it."
 tags: ["weekly-recap"]
 date: 2018-02-16T22:15:18+08:00
 ---

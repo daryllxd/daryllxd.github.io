@@ -3,6 +3,8 @@ title: "Weekly Recap, 1529/5000, where I get back to ReactJS and vlog for my job
 date: 2018-03-10T18:45:55+08:00
 ---
 
+On the 1529th week of my life, I:
+
 - Read: [Your Brain at Work by David Rock.](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295)
 - Reading: [Domain-Driven Design by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - Reading: [Die Empty by Todd Henry.](https://www.amazon.com/Die-Empty-Unleash-Your-Every/dp/1591845890)

@@ -4,6 +4,8 @@ tags: ["weekly-recap"]
 date: 2018-02-23T08:40:23+08:00
 ---
 
+On the 1527th week of my life, I:
+
 - Read: [Crushing It, by Gary Vaynerchuk.](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676)
 - Read: [The Obstacle Is the Way, by Ryan Holiday.](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
 - Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
