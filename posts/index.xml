@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Mar 2018 18:45:55 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 16:44:46 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Recap, 1530</title>
+      <link>https://daryll.codes/posts/weekly-recap-1530/</link>
+      <pubDate>Sun, 18 Mar 2018 16:44:46 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/weekly-recap-1530/</guid>
+      <description>On the 1530th week of my life, I:
+ Read: Die Empty by Todd Henry. Read: The Power of Habit by Charles Duhigg. Reading: Domain-Driven Design by Eric J. Evans. Nearly finished, I hope! Reading: Full Stack React. Watching: A Cloud Guru AWS Software Architect Online Course. Writing: A blog post on how I use the Pomodoro technique. Biked: 90km. Walked: Cubao to BGC. Spoke at Rubyconf Philippines! Yeah!</description>
+    </item>
     
     <item>
       <title>Weekly Recap, 1529/5000, where I get back to ReactJS and vlog for my job application.</title>
@@ -17,7 +27,8 @@
       <pubDate>Sat, 10 Mar 2018 18:45:55 +0800</pubDate>
       
       <guid>https://daryll.codes/posts/weekly-recap-1529/</guid>
-      <description>Read: Your Brain at Work by David Rock. Reading: Domain-Driven Design by Eric J. Evans. Reading: Die Empty by Todd Henry. Reading: Full Stack React. Watching: A Cloud Guru AWS Software Architect Online Course. Wrote: A blog post on how to focus as a software developer. Biked: 211km.   Coding:  Added Doorkeeper/JWT/controller layer to Daryllxd. Added another view to Daryllxd re: summarizing activity tags for the week.</description>
+      <description>On the 1529th week of my life, I:
+ Read: Your Brain at Work by David Rock. Reading: Domain-Driven Design by Eric J. Evans. Reading: Die Empty by Todd Henry. Reading: Full Stack React. Watching: A Cloud Guru AWS Software Architect Online Course. Wrote: A blog post on how to focus as a software developer. Biked: 211km.   Coding:  Added Doorkeeper/JWT/controller layer to Daryllxd. Added another view to Daryllxd re: summarizing activity tags for the week.</description>
     </item>
     
     <item>
@@ -45,7 +56,8 @@ For the past six or so weeks, I&amp;rsquo;ve been hitting 50+ productive hours a
       <pubDate>Fri, 23 Feb 2018 08:40:23 +0800</pubDate>
       
       <guid>https://daryll.codes/posts/weekly-recap-1527/</guid>
-      <description>Read: Crushing It, by Gary Vaynerchuk. Read: The Obstacle Is the Way, by Ryan Holiday. Reading: Programming Elixir, by Jose Valim. Reading: Programming Phoenix, by Chris McCord. Reading: Your Brain at Work, by David Rock. Wrote: Just drafts of articles. I should have! Biked: 186km. Coding:  Habits One, Elixir project. I have authentication and authorization working now, as well as the basic CRUD functionality. Consulting: I worked with my homies re: consulting on an all-around inventory/payroll system.</description>
+      <description>On the 1527th week of my life, I:
+ Read: Crushing It, by Gary Vaynerchuk. Read: The Obstacle Is the Way, by Ryan Holiday. Reading: Programming Elixir, by Jose Valim. Reading: Programming Phoenix, by Chris McCord. Reading: Your Brain at Work, by David Rock. Wrote: Just drafts of articles. I should have! Biked: 186km. Coding:  Habits One, Elixir project. I have authentication and authorization working now, as well as the basic CRUD functionality.</description>
     </item>
     
     <item>
@@ -59,7 +71,7 @@ Software  Text editor: Vim. I practically live in this. Fun fact: I was probably
     </item>
     
     <item>
-      <title>Weekly Recap, 20180216</title>
+      <title>Weekly Recap 1526/5000, reviewing my first few journal entries and laughing about it.</title>
       <link>https://daryll.codes/posts/weekly-recap-1526/</link>
       <pubDate>Fri, 16 Feb 2018 22:15:18 +0800</pubDate>
       
@@ -68,7 +80,7 @@ Software  Text editor: Vim. I practically live in this. Fun fact: I was probably
     </item>
     
     <item>
-      <title>Weekly Recap, 20180209</title>
+      <title>Weekly Recap 1525/5000, the first in what will hopefully be a lifetime of weekly updates.</title>
       <link>https://daryll.codes/posts/weekly-recap-1525/</link>
       <pubDate>Fri, 09 Feb 2018 22:48:14 +0800</pubDate>
       
