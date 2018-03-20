@@ -25,6 +25,9 @@ When I was a kid I loved reading books. Growing up, we didn't have much, but my 
 ## Personal Development
 
 - Reading: Incognito: The Secret Lives of the Brain, by David Eagleman.
+- [Grit: The Power of Passion and Perseverance, by Angela Duckworth.](https://www.amazon.com/gp/product/1501111108/)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love, by Cal Newport.](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
+- [The Power of Habit: Why We Do What We Do in Life and Business, By Charles Duhigg.](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
 - [Die Empty: Unleash Your Best Work Everyday, by Todd Henry.](https://www.amazon.com/Die-Empty-Unleash-Your-Every/dp/1591845890)
 - [Your Brain at Work, by David Rock.](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295)
 - [Crushing It, by Gary Vaynerchuk.](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676)
