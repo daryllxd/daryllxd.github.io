@@ -10,9 +10,10 @@ When I was a kid I loved reading books. Growing up, we didn't have much, but my 
 - Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
 - Reading: [Programming Phoenix, by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
 - Reading: [Full Stack React.](https://www.fullstackreact.com/)
-- Reading: [Domain-Driven Design, by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Domain-Driven Design, by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Objects on Rails by Avdi Grimm.](http://objectsonrails.com/)
 - [99 Bottles of OOP, A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
+- [Eloquent Ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104)
 - Service-Oriented Design with Ruby and Rails, by Paul Dix.
 - Practical Object-Oriented Design in Ruby, by Sandi Metz.
 - Rails Antipatterns, by Chad Pytel.
