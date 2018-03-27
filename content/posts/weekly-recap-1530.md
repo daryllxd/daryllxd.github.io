@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap, 1530"
+title: "Weekly Recap, 1530, Speaking at Rubyconf, Walking from Cubao to BGC."
 tags: ["weekly-recap"]
 date: 2018-03-18T16:44:46+08:00
 ---
