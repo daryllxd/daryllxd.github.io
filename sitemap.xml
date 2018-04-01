@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://daryll.codes/posts/30-days-of-writing/</loc>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/posts/weekly-recap-1531/</loc>
     <lastmod>2018-03-25T23:07:44+08:00</lastmod>
   </url>
@@ -129,19 +134,31 @@
   
   <url>
     <loc>https://daryll.codes/</loc>
-    <lastmod>2018-03-25T23:07:44+08:00</lastmod>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daryll.codes/posts/</loc>
-    <lastmod>2018-03-25T23:07:44+08:00</lastmod>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daryll.codes/tags/</loc>
     <lastmod>2018-01-05T05:54:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/tags/thirty-days/</loc>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/categories/thirty-days/</loc>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,6 +171,18 @@
   <url>
     <loc>https://daryll.codes/tags/weekly-recap/</loc>
     <lastmod>2018-03-25T23:07:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/tags/writing/</loc>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daryll.codes/categories/writing/</loc>
+    <lastmod>2018-04-02T00:08:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   
