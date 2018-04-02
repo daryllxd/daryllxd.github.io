@@ -6,8 +6,8 @@ date: 2018-03-18T16:44:46+08:00
 
 On the 1530th week of my life, I:
 
-- Read: [Die Empty by Todd Henry.](https://www.amazon.com/Die-Empty-Unleash-Your-Every/dp/1591845890)
-- Read: [The Power of Habit by Charles Duhigg.](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
+- [Die Empty: Unleash Your Best Work Everyday, by Todd Henry.](https://www.amazon.com/Die-Empty-Unleash-Your-Every/dp/1591845890)
+- [The Power of Habit: Why We Do What We Do in Life and Business, By Charles Duhigg.](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
 - Reading: [Domain-Driven Design by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) Nearly finished, I hope!
 - Reading: [Full Stack React.](https://www.fullstackreact.com/)
 - Watching: [A Cloud Guru AWS Software Architect Online Course.](https://acloud.guru/learn/aws-certified-solutions-architect-associate)

@@ -3,13 +3,14 @@ title: "Reading List"
 date: 2018-03-02T23:56:36+08:00
 ---
 
-When I was a kid I loved reading books. Growing up, we didn't have much, but my mom bought me Roald Dahl books. I loved them all. While I was, I . Here's a list of all the books I've read since I started becoming a web developer:
+When my brothers and I were growing up, we didn't have much, but my mom and dad bought us a lot of books. After we got our first computer,
 
 ## Programming/Design
 
 - Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
 - Reading: [Programming Phoenix, by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
-- Reading: [Full Stack React.](https://www.fullstackreact.com/)
+- Read: [The Well-Grounded Rubyist, by David A. Black.](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692)
+- Read: [Full Stack React, by `fullstackreact.io`.](https://www.fullstackreact.com/)
 - [Domain-Driven Design, by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Objects on Rails by Avdi Grimm.](http://objectsonrails.com/)
 - [99 Bottles of OOP, A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
@@ -26,6 +27,11 @@ When I was a kid I loved reading books. Growing up, we didn't have much, but my 
 ## Personal Development
 
 - Reading: Incognito: The Secret Lives of the Brain, by David Eagleman.
+- Read: [Purple Cow: Transform Your Business by Being Remarkable, by Seth Godin.](https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/159184021X/)
+- [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World, by Gary Vaynerchuk.](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X)
+- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It, by Michael E. Gerber](https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK/)
+- [Linchpin: Are You Indispensable?, by Seth Godin.](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B00FOVTOMA/)
 - [Grit: The Power of Passion and Perseverance, by Angela Duckworth.](https://www.amazon.com/gp/product/1501111108/)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love, by Cal Newport.](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
 - [The Power of Habit: Why We Do What We Do in Life and Business, By Charles Duhigg.](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
