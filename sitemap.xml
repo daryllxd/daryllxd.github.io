@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://daryll.codes/posts/weekly-recap-1532/</loc>
+    <lastmod>2018-04-02T11:46:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daryll.codes/posts/30-days-of-writing/</loc>
     <lastmod>2018-04-02T00:08:06+08:00</lastmod>
   </url>
@@ -120,13 +125,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/habits/</loc>
+    <loc>https://daryll.codes/tags/habits/</loc>
     <lastmod>2018-03-03T23:56:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/habits/</loc>
+    <loc>https://daryll.codes/categories/habits/</loc>
     <lastmod>2018-03-03T23:56:36+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,13 +161,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/thirty-days/</loc>
+    <loc>https://daryll.codes/tags/thirty-days/</loc>
     <lastmod>2018-04-02T23:24:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/thirty-days/</loc>
+    <loc>https://daryll.codes/categories/thirty-days/</loc>
     <lastmod>2018-04-02T23:24:44+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -180,13 +185,13 @@
   </url>
   
   <url>
-    <loc>https://daryll.codes/categories/writing/</loc>
+    <loc>https://daryll.codes/tags/writing/</loc>
     <lastmod>2018-04-02T23:24:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daryll.codes/tags/writing/</loc>
+    <loc>https://daryll.codes/categories/writing/</loc>
     <lastmod>2018-04-02T23:24:44+08:00</lastmod>
     <priority>0</priority>
   </url>
