@@ -6,7 +6,7 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 
 ## CV:
 
-Pdf copy.
+[Pdf copy here.](http://daryll.codes/cv.pdf)
 
 ## Software Development Skills:
 
