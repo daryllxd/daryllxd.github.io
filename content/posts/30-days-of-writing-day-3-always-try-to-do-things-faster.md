@@ -1,5 +1,5 @@
 ---
-title: "Day 3: Always try to do things faster."
+title: "30 Days of Writing, Day 3: Always try to do things faster."
 categories: ["thirty-days", "writing"]
 tags: ["thirty-days", "writing"]
 date: 2018-04-04T00:44:27+08:00

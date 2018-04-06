@@ -1,5 +1,5 @@
 ---
-title: "Day 5: Systems Instead of Discipline."
+title: "30 Days of Writing, Day 5: Systems Instead of Discipline."
 categories: ["thirty-days", "writing"]
 tags: ["thirty-days", "writing"]
 date: 2018-04-06T01:45:45+08:00

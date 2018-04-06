@@ -1,5 +1,5 @@
 ---
-title: "Day 4: Putting in Reps."
+title: "30 Days of Writing, Day 4: Putting in Reps."
 categories: ["thirty-days", "writing"]
 tags: ["thirty-days", "writing"]
 date: 2018-04-05T01:11:09+08:00

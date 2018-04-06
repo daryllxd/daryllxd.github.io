@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Base your self-worth on learning."
+title: "30 Days of Writing, day 2: Base your self-worth on learning."
 categories: ["thirty-days", "writing"]
 tags: ["thirty-days", "writing"]
 date: 2018-04-02T23:24:44+08:00
