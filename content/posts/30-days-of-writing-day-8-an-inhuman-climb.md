@@ -1,7 +1,8 @@
 ---
 title: "30 Days of Writing: Day 8, An Inhuman Climb"
+categories: ["thirty-days", "writing"]
+tags: ["thirty-days", "writing"]
 date: 2018-04-08T23:15:03+08:00
-draft: true
 ---
 
 Today, I rode a climb up Tagaytay, Sungay In the Philippines. It's an inhuman climb, with gradients at 15% in the straighter sections and up to 25% in the corners. It's a climb that is difficult to walk on, never mind riding a bike though.
