@@ -1,5 +1,6 @@
 ---
-title: "Weekly Recap, 1532: Deploying Writing Prompts app, Start"
+title: "Weekly Recap, 1532: Deploying Writing Prompts app, Start Chef!"
+tags: ["weekly-recap"]
 date: 2018-04-02T11:46:59+08:00
 ---
 
