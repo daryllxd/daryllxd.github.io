@@ -7,7 +7,7 @@ date: 2018-04-09T08:48:12+08:00
 - Read: [Perennial Seller: The Art of Making and Marketing Work that Lasts, by Ryan Holiday.](https://www.amazon.com/Perennial-Seller-Making-Marketing-Lasts-ebook/dp/B01N8SL7FH/)
 - Read: [The Thank You Economy, by Gary Vaynerchuk.]()
 - Read: [Life is Short, by Paul Graham.](http://www.paulgraham.com/vb.html)
-- Reading: [The Now Habit, by Tom Fiore.]()
+- Reading: [The Now Habit, by Tom Fiore.](https://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524)
 - Reading: [Building Great Sentences: How to Write the Kinds of Sentences You Love to Read, by Brooks Landon.](https://www.amazon.com/Building-Great-Sentences-Write-Courses-ebook/dp/B00AEDDRF8/)
 - Reading: [Designing Data-Intensive Applications.]()
 - Reading: [Reliably Deploying Rails Applications, by Ben Dixon.](https://leanpub.com/deploying_rails_applications)
