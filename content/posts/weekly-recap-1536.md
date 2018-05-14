@@ -1,7 +1,7 @@
 ---
 title: "Weekly Recap 1536"
 date: 2018-04-27T13:04:49+08:00
-draft: true
+tags: ["weekly-recap"]
 ---
 
 On the 1536th week of my life, I:
