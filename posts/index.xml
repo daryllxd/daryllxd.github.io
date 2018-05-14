@@ -6,32 +6,10 @@
     <description>Recent content in Posts on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 15:22:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 12:41:37 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>30 Days of Writing Day 19: On Watching Old Movies</title>
-      <link>https://daryll.codes/posts/30-days-of-writing-day-19-on-watching-old-movies/</link>
-      <pubDate>Tue, 01 May 2018 15:22:25 +0800</pubDate>
-      
-      <guid>https://daryll.codes/posts/30-days-of-writing-day-19-on-watching-old-movies/</guid>
-      <description>One of my audacious goals a few years back was to complete the IMDB Top 250 Movies list. For a few weeks in our university&amp;rsquo;s summer vacation, I&amp;rsquo;d wake up plastered in the mid-afternoon, eating the bare minimum to survive while watching five movies to seven movies a day, pour through Wikipedia after Wikipedia article for and film analysis, and figure out the five movies I wanted to watch the next day.</description>
-    </item>
-    
-    <item>
-      <title>30 Days of Writing: Day 25, Happy Birthday, Lolo Ben</title>
-      <link>https://daryll.codes/posts/30-days-of-writing-day-25-on-grief/</link>
-      <pubDate>Wed, 25 Apr 2018 11:18:46 +0800</pubDate>
-      
-      <guid>https://daryll.codes/posts/30-days-of-writing-day-25-on-grief/</guid>
-      <description>When we went to Taiwan, there was this thuing called the sky lanterns.
-Traditioanlly, people wrote stuff on them so that s.
-My friends wrote stupid stuff on them:
-I was having a laugh, but when I was the lanterns of other people, I was stunned.
-There were things on , and I remembered my Lolo (grandpa) Ben, who believed in me even when I didn&amp;rsquo;t believe in myself, and who told me to soldier on, even when I was a failure in life.</description>
-    </item>
     
     <item>
       <title>30 Days of Writing, Day 14: Ideas From Antifragile</title>
@@ -53,15 +31,13 @@ On fragility: while fragile objects like porcelain cups break apart when shocked
     </item>
     
     <item>
-      <title>30 Days of Writing Day 16 Focus on the Message Not the Messenger</title>
-      <link>https://daryll.codes/posts/30-days-of-writing-day-16-focus-on-the-message-not-the-messenger/</link>
-      <pubDate>Mon, 16 Apr 2018 12:30:50 +0800</pubDate>
+      <title>30 Days of Writing, Day 15: How I Learn Programming Languages and Technologies</title>
+      <link>https://daryll.codes/posts/30-days-of-writing-day-15-how-i-learn-things/</link>
+      <pubDate>Sun, 15 Apr 2018 12:30:50 +0800</pubDate>
       
-      <guid>https://daryll.codes/posts/30-days-of-writing-day-16-focus-on-the-message-not-the-messenger/</guid>
-      <description>You can&amp;rsquo;t expect to agree with eveyrone on what they&amp;rsquo;re saying, and theere sdfinitely is a tendency to hate things your enemies say, but you have to concentrate on messages, not messengers.
-IN the fallacies, a fallacy is to concentrate on the thing.
-I mean if you think about it, most ideas aren&amp;rsquo;t new, they&amp;rsquo;re just rehashing ideas from generations past and applying it to our world today.
-As someone living in a poor country who (someday) wants to immigrate to a better life in a richer country, in order to contribute to the bleeding edge of humanity, I don&amp;rsquo;t agree with Trump and his immigration policies.</description>
+      <guid>https://daryll.codes/posts/30-days-of-writing-day-15-how-i-learn-things/</guid>
+      <description>Over the past few months I&amp;rsquo;ve learned a lot of different programming languages and web development techniques: ReactJS/&amp;ldquo;modern&amp;rdquo; JavaScript, Redis, Domain-Driven Design, Elixir/Phoenix, and AWS/Chef/Docker. While I&amp;rsquo;m still at various levels from newbie to intermediate, I think I&amp;rsquo;ve gotten a better grasp of how to learn new technologies now. Here&amp;rsquo;s how I did it:
+ Devote a few hours reading about the possible use case of that technology. For 2018, my goal was to expand to full-stack status (front-end framework to Rails to servers).</description>
     </item>
     
     <item>
