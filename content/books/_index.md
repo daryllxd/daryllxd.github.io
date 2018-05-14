@@ -9,8 +9,9 @@ When my brothers and I were growing up, we didn't have much, but my mom and dad 
 
 - Reading: [Programming Elixir, by Jose Valim.](https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580)
 - Reading: [Programming Phoenix, by Chris McCord.](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
-- Read: [The Well-Grounded Rubyist, by David A. Black.](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692)
-- Read: [Full Stack React, by `fullstackreact.io`.](https://www.fullstackreact.com/)
+- Reading: [Seven Concurrency Models in Seven Weeks: When Threads Unravel (The Pragmatic Programmers)](https://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/)
+- [The Well-Grounded Rubyist, by David A. Black.](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692)
+- [Full Stack React, by `fullstackreact.io`.](https://www.fullstackreact.com/)
 - [Domain-Driven Design, by Eric J. Evans.](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Objects on Rails by Avdi Grimm.](http://objectsonrails.com/)
 - [99 Bottles of OOP, A Practical Guide to Object-Oriented Design](https://www.sandimetz.com/99bottles/)
@@ -27,7 +28,13 @@ When my brothers and I were growing up, we didn't have much, but my mom and dad 
 ## Personal Development
 
 - Reading: Incognito: The Secret Lives of the Brain, by David Eagleman.
-- Read: [Purple Cow: Transform Your Business by Being Remarkable, by Seth Godin.](https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/159184021X/)
+- Reading: [A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine.](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/1522632735)
+- Reading: [On Writing Well: The Classic Guide to Writing Nonfiction ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+- [Ego is the Enemy, by Ryan Holiday.](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
+- [Antifragile, by Nassim Nicholas Taleb.](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/)
+- [The Thank You Economy, by Gary Vaynerchuk.](https://www.amazon.com/Thank-You-Economy-Gary-Vaynerchuk/dp/0061914185)
+- [Perennial Seller: The Art of Making and Marketing Work that Lasts, by Ryan Holiday.](https://www.amazon.com/Perennial-Seller-Making-Marketing-Lasts-ebook/dp/B01N8SL7FH/)
+- [Purple Cow: Transform Your Business by Being Remarkable, by Seth Godin.](https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/159184021X/)
 - [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World, by Gary Vaynerchuk.](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X)
 - [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It, by Michael E. Gerber](https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK/)
 - [Linchpin: Are You Indispensable?, by Seth Godin.](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)
