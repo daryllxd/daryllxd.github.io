@@ -2,7 +2,7 @@
 title: "30 Days of Writing, Day 14: Ideas From Antifragile"
 categories: ["thirty-days", "writing"]
 tags: ["thirty-days", "writing"]
-date: 2018-04-24T12:41:37+08:00
+date: 2018-04-14T12:41:37+08:00
 ---
 
 Antifragile by Nassim Nicolas Taleb was really difficult to read: I can deal with his incessant ranting, but he really loves using complicated words and long paragraphs. Here are some things I took away from this book.
