@@ -6,20 +6,10 @@
     <description>Recent content in Thirty Days on Learn. Create. Ship.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Apr 2018 12:41:37 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Apr 2018 12:30:50 +0800</lastBuildDate>
     
 	<atom:link href="https://daryll.codes/categories/thirty-days/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>30 Days of Writing, Day 14: Ideas From Antifragile</title>
-      <link>https://daryll.codes/posts/30-days-of-writing-day-14-ideas-from-antifragile/</link>
-      <pubDate>Tue, 24 Apr 2018 12:41:37 +0800</pubDate>
-      
-      <guid>https://daryll.codes/posts/30-days-of-writing-day-14-ideas-from-antifragile/</guid>
-      <description>Antifragile by Nassim Nicolas Taleb was really difficult to read: I can deal with his incessant ranting, but he really loves using complicated words and long paragraphs. Here are some things I took away from this book.
-On fragility: while fragile objects like porcelain cups break apart when shocked or stressed, antifragile concepts benefit from those. This probably confirms what I think about re: investing time and money on online courses, books, and studying over clothes and luxury goods, because knowledge stays with you, as long as you apply it, and material possessions can get lost, destroyed, or stolen.</description>
-    </item>
     
     <item>
       <title>30 Days of Writing, Day 15: How I Learn Programming Languages and Technologies</title>
@@ -29,6 +19,16 @@ On fragility: while fragile objects like porcelain cups break apart when shocked
       <guid>https://daryll.codes/posts/30-days-of-writing-day-15-how-i-learn-things/</guid>
       <description>Over the past few months I&amp;rsquo;ve learned a lot of different programming languages and web development techniques: ReactJS/&amp;ldquo;modern&amp;rdquo; JavaScript, Redis, Domain-Driven Design, Elixir/Phoenix, and AWS/Chef/Docker. While I&amp;rsquo;m still at various levels from newbie to intermediate, I think I&amp;rsquo;ve gotten a better grasp of how to learn new technologies now. Here&amp;rsquo;s how I did it:
  Devote a few hours reading about the possible use case of that technology. For 2018, my goal was to expand to full-stack status (front-end framework to Rails to servers).</description>
+    </item>
+    
+    <item>
+      <title>30 Days of Writing, Day 14: Ideas From Antifragile</title>
+      <link>https://daryll.codes/posts/30-days-of-writing-day-14-ideas-from-antifragile/</link>
+      <pubDate>Sat, 14 Apr 2018 12:41:37 +0800</pubDate>
+      
+      <guid>https://daryll.codes/posts/30-days-of-writing-day-14-ideas-from-antifragile/</guid>
+      <description>Antifragile by Nassim Nicolas Taleb was really difficult to read: I can deal with his incessant ranting, but he really loves using complicated words and long paragraphs. Here are some things I took away from this book.
+On fragility: while fragile objects like porcelain cups break apart when shocked or stressed, antifragile concepts benefit from those. This probably confirms what I think about re: investing time and money on online courses, books, and studying over clothes and luxury goods, because knowledge stays with you, as long as you apply it, and material possessions can get lost, destroyed, or stolen.</description>
     </item>
     
     <item>
