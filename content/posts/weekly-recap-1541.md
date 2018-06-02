@@ -7,7 +7,9 @@ tags: ["weekly-recap"]
 - Reading: [When Coffee and Kale Compete.](http://www.whencoffeeandkalecompete.com/)
 - Reading: A bunch of stuff about event sourcing.
 - Watched: [Take a Step Backwards to Take a Step Forward for the Rest of Your Life.](https://www.youtube.com/watch?v=WkJtsjv9ICc)
-- Solving: Technical exam.
+- Coding: Technical exam.
+  - [Sagas pattern.]((https://www.youtube.com/watch?v=xDuwrtwYHu8)
+  - [RailsConf 2017 Panel: Performance, Performance](https://www.youtube.com/watch?v=SMxlblLe_Io)
 
 ---
 
@@ -23,6 +25,8 @@ Anyway. Still working on my solution. I have a prototype up now, but I'm still f
 
 ---
 
-# Musing
+# Musings
 
 - I haven't been cycling as much as I should have. That's okay, but I should get back to it. I'm trying to just get 1 hour a day, 30 minutes if there really isn't time. But honestly for me I think when someone says "not enough time", I think they have to qualify it first. Don't say there's not enough time and browse social media and watch Youtube videos instead. Just say that "I don't want to do it because I'm not in the mood" or something else. Yeah, that includes me. Have to get better!
+- I've watched ["Take a Step Backwards to Take a Step Forward for the Rest of Your Life."](https://www.youtube.com/watch?v=WkJtsjv9ICc) 5 times already, especially the part near the end. This part really resonated with me because I've lived through that. I took a "step backwards" (going out of UP and looking for a job) to figure out the value of money and what my purpose in life is. Fortunately, it worked: I'm a successful programmer now. Right now, I'm also in the "step backwards", as I quit my job last November to figure out my next steps. I hope I take a big step forward if I pass my interviews.
+- One of my friends, M, is buying a motorcycle, and that's awesome. It's hard to explain the high that I get from two-wheeled vehicles. I feel like it's just so human. You can feel the wind in your face and the undulations of the road. I'm just really fearful of the road nowadays. I'm very careful when it comes to cycling, and that's precisely the problem: even if you are super-careful and do everything right, it's still possible for you to die. There's no protective covering that a car affords you. For me, it's just something that I risk every time I go outside and ride my bike. Sometimes I ask myself why I do this when I can so easily die. Oh well.

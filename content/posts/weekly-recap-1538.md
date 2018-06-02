@@ -25,3 +25,4 @@ On the 1538th week of my life, I:
 - Moving to Telegram: I'm slowly trying to move to Telegram as a messaging service over Messenger. I use Facebook really rarely, but I've blocked it on my machine and so I still need to communicate with the homies somewhere when I'm on machine. Enter Telegram. I actually like it not having some Facebook features anyway.
 - Job interviews. I can't really say much about this but I'm enjoying it so far. I hope I get to work in the companies I applied in. But to be honest I really would rather be working remotely/from home. I just have less distractions and am just more productive with the routine I have.
 - Chatted with W this week.
+- Scaled back on cycling this week, but I had a full fast day on Monday.

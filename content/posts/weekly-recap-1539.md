@@ -4,6 +4,8 @@ date: 2018-05-15T03:13:40+08:00
 tags: ["weekly-recap"]
 ---
 
+On the 1539th week of my life, I:
+
 - Reading: [A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine.](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/1522632735)
 
 ---
