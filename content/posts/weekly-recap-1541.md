@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap, 1541, Technical Exam, Event Sourcing"
+title: "Weekly Recap, 1541/5000: Technical Exam, Event Sourcing"
 date: 2018-05-25T03:13:40+08:00
 tags: ["weekly-recap"]
 ---
@@ -7,11 +7,16 @@ tags: ["weekly-recap"]
 - Reading: [When Coffee and Kale Compete.](http://www.whencoffeeandkalecompete.com/)
 - Reading: A bunch of stuff about event sourcing.
 - Watched: [Take a Step Backwards to Take a Step Forward for the Rest of Your Life.](https://www.youtube.com/watch?v=WkJtsjv9ICc)
+- Biked: 70-ish km.
 - Coding: Technical exam.
-  - [Sagas pattern.]((https://www.youtube.com/watch?v=xDuwrtwYHu8)
+  - [Sagas pattern.](https://www.youtube.com/watch?v=xDuwrtwYHu8)
   - [RailsConf 2017 Panel: Performance, Performance](https://www.youtube.com/watch?v=SMxlblLe_Io)
 
 ---
+
+# A New Approach to the Weekly Recap
+
+I've been losing my edge over these weekly recaps. That definitely has to change. If I can't munge together 10 minutes per day creating this, then there's probably something wrong with my time management. So what I did for this week was that I create a small part of this Weekly Recap day-by-day. It's way easier to do that than find half an hour or an hour of time at the end of the week to recap the thing.
 
 # Technical Exam at "TG Company"
 
