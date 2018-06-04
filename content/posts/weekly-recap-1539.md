@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap 1539"
+title: "Weekly Recap 1539: Preparing for Technical Exams"
 date: 2018-05-15T03:13:40+08:00
 tags: ["weekly-recap"]
 ---

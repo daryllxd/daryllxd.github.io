@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap 1536"
+title: "Weekly Recap, 1536: Antifragile and the Perils of Bike Commuting"
 date: 2018-04-27T13:04:49+08:00
 tags: ["weekly-recap"]
 ---

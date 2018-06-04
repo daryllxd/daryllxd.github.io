@@ -1,5 +1,5 @@
 ---
-title: "Weekly Recap 1537"
+title: "Weekly Recap, 1537: Chinatown, Culture Problems"
 date: 2018-05-04T19:31:27+08:00
 tags: ["weekly-recap"]
 ---
