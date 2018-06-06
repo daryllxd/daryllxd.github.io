@@ -4,6 +4,8 @@ date: 2018-05-04T19:31:27+08:00
 tags: ["weekly-recap"]
 ---
 
+On the 1537th week of my life, I:
+
 - Read: [Ego is the Enemy, by Ryan Holiday.](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 - Reading: [A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine.](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/1522632735)
 

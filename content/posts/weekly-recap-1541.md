@@ -7,6 +7,7 @@ tags: ["weekly-recap"]
 - Reading: [When Coffee and Kale Compete.](http://www.whencoffeeandkalecompete.com/)
 - Reading: A bunch of stuff about event sourcing.
 - Watched: [Take a Step Backwards to Take a Step Forward for the Rest of Your Life.](https://www.youtube.com/watch?v=WkJtsjv9ICc)
+- Watched: [A Number Speaks a Thousand Words | Liv Boeree | TEDxManchester](https://www.youtube.com/watch?v=zankirmsRAc)
 - Biked: 70-ish km.
 - Coding: Technical exam.
   - [Sagas pattern.](https://www.youtube.com/watch?v=xDuwrtwYHu8)
