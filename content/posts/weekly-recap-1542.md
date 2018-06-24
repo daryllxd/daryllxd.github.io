@@ -4,7 +4,7 @@ date: 2018-06-04T12:26:13+08:00
 tags: ["weekly-recap"]
 ---
 
-Read:
+On the 1542th week of my life, I:
 
 - Read: [When Coffee and Kale Compete.](http://www.whencoffeeandkalecompete.com/)
 - Read: [When: The Scientific Secrets of Perfect Timing](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624/)
@@ -38,7 +38,6 @@ I think people need to be more accountable when it comes to their consumption of
 - Content marketing and TradeGecko/Shopify.
 - Mental junk food.
 
-
 # Tips from Time
 
 What to do if you have an important test at 2 in the afternoon?
@@ -54,4 +53,3 @@ What to do if you are a night-owl and have an important meeting at 8am?
 1) prepare the day before in your peak time in the evening: write a check list what you want to accomplish and/or say next day
 2) before the meeting go out for a walk around the block (restoritative break)
 3) boost your mood before the meeting by doing something good for somebody else
-
