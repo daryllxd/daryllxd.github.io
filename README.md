@@ -1,4 +1,11 @@
-Commands
+# My Blog
+
+```
+Setup:
+
+$ git worktree add public master # This will make it such that when we compile via `hugo`, the `public` directory links to the `master` branch.
+
+```
 
 ``` shell
 $ hugo new posts/TITLE.md
