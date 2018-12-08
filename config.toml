@@ -9,6 +9,10 @@ GoogleAnalytics= "UA-41420722-4"
   tag = "tags"
   category = "categories"
 
+[author]
+  name = "Daryll Santos"
+  homepage = "https://www.daryll.codes"
+
 [params]
   env = "production"
   favicon = ""
